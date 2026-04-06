@@ -18,6 +18,7 @@
   - [Gaming](#gaming)
   - [Governance](#governance)
   - [Dormant Projects](#dormant-projects)
+  - [Project Activity Snapshot](#project-activity-snapshot)
   - [Learning Resources](#learning-resources)
     - [Documentation](#documentation)
     - [Getting Started](#getting-started-1)
@@ -154,6 +155,17 @@ _Interactive, zero-knowledge-powered games_
 ## Dormant Projects
 
 Projects that are no longer actively maintained live in the [Dormant Projects](./dormant_projects/README.md) folder. These projects and their code are preserved and available for reference, adoption, or revival by anyone in the community.
+
+## Project Activity Snapshot
+
+- Latest review: **2026-04-05**
+- Scope reviewed: **72 entries** from `README.md` and `dormant_projects/README.md`
+- GitHub-backed entries: **70** across **67 unique repositories**
+- Entry-based snapshot: **48 Active / 18 Warm / 4 Dormant / 2 External**
+- Repo-based snapshot: **45 Active / 18 Warm / 4 Dormant**
+- Midnight release reference used: [Release Overview](https://docs.midnight.network/relnotes/overview)
+- Compact release/reference used: [Compact compiler release notes](https://docs.midnight.network/relnotes/compact), [Compact grammar](https://docs.midnight.network/compact/reference/compact-grammar)
+- Full breakdown: [docs/project-activity.md](./docs/project-activity.md)
 
 # Learning Resources
 
